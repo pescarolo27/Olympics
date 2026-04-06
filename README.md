@@ -13,5 +13,5 @@
 
 **The Data:** The dataset used in this project pertained to historical statistics on the modern Olympic Games, from Athens 1896 to Rio 2016. Each row consists of an observation containing 15 variables including: a unique numerical identifier for each athlete, the athlete's name, the athlete's sex, the athlete's age (in years), the athlete's height (in centimeters), the athlete's weight (in kilograms), the team name that the athlete competed for, the national Olympic committee that the athlete competed for, the Olympic Game indicated by year & season, the year in which the Game occurred, the season in which the Game occurred, the host city of the Game, what sport was played, what event was played, & what medal was won if a medal was won. 
 
-The dataset for this project was not uploaded to GitHub because it was too large (~35 MB).
+The main dataset for this project was not uploaded to GitHub because it was too large (~35 MB).
 Machine learning was not applied in this project, but it could be.
